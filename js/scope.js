@@ -10,7 +10,6 @@
 
 
 //scope con let
-
  let musica = "Rock";
  if(musica)
  {
