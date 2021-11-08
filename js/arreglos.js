@@ -16,3 +16,5 @@
 carrito.map(producto =>{
      return 'El producto es ' + producto;
     });
+
+    console.log(carrito);
